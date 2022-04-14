@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kodecampReactform/static/css/main.1f7b4a81.chunk.css",
+    "main.js": "/kodecampReactform/static/js/main.37ea093e.chunk.js",
+    "main.js.map": "/kodecampReactform/static/js/main.37ea093e.chunk.js.map",
+    "runtime-main.js": "/kodecampReactform/static/js/runtime-main.6961cf0f.js",
+    "runtime-main.js.map": "/kodecampReactform/static/js/runtime-main.6961cf0f.js.map",
+    "static/css/2.383c0125.chunk.css": "/kodecampReactform/static/css/2.383c0125.chunk.css",
+    "static/js/2.463d9596.chunk.js": "/kodecampReactform/static/js/2.463d9596.chunk.js",
+    "static/js/2.463d9596.chunk.js.map": "/kodecampReactform/static/js/2.463d9596.chunk.js.map",
+    "static/js/3.8d79505c.chunk.js": "/kodecampReactform/static/js/3.8d79505c.chunk.js",
+    "static/js/3.8d79505c.chunk.js.map": "/kodecampReactform/static/js/3.8d79505c.chunk.js.map",
+    "index.html": "/kodecampReactform/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/kodecampReactform/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.1f7b4a81.chunk.css.map": "/kodecampReactform/static/css/main.1f7b4a81.chunk.css.map",
+    "static/js/2.463d9596.chunk.js.LICENSE.txt": "/kodecampReactform/static/js/2.463d9596.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6961cf0f.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.463d9596.chunk.js",
+    "static/css/main.1f7b4a81.chunk.css",
+    "static/js/main.37ea093e.chunk.js"
+  ]
+}
